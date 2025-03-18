@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/selenium-server-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/auto-service-annotations-1.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/byte-buddy-1.15.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/byte-buddy-1.15.11-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/checker-qual-3.21.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/checker-qual-3.21.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/commons-exec-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/commons-exec-1.4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/error_prone_annotations-2.36.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/error_prone_annotations-2.36.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/failureaccess-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/failureaccess-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/guava-33.4.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/guava-33.4.0-jre-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/j2objc-annotations-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/j2objc-annotations-3.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/jspecify-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/jspecify-1.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/jsr305-3.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-api-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-api-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-api-incubator-1.46.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-api-incubator-1.46.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-context-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-context-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-exporter-logging-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-exporter-logging-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-common-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-common-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-extension-autoconfigure-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-extension-autoconfigure-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-extension-autoconfigure-spi-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-logs-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-logs-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-metrics-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-metrics-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-trace-1.46.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-sdk-trace-1.46.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-semconv-1.28.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/opentelemetry-semconv-1.28.0-alpha-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-api-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-api-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-chrome-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-chrome-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-chromium-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-chromium-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v85-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v85-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v131-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v131-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v132-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v132-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v133-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-devtools-v133-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-edge-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-edge-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-firefox-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-firefox-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-http-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-http-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-ie-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-ie-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-java-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-java-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-json-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-json-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-manager-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-manager-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-os-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-os-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-remote-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-remote-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-safari-driver-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-safari-driver-4.29.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-support-4.29.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/swain/OneDrive/Desktop/Selenium/Selenium/selenium-support-4.29.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
